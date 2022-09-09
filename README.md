@@ -20,20 +20,20 @@ Output quantization, dithering, and perceptual noise shaping.
 Rescalable user interface with color themes to fit every screen.
 
 <div align="left">
-<img src="https://github.com/REAPXR666/louisgaming/blob/main/1.PNG" height="200"  >
+<img src="https://github.com/REAPXR666/louisgaming/blob/main/1.PNG" height="500"  >
 </div>
 <div align="left">
-<img src="https://github.com/REAPXR666/louisgaming/blob/main/2.PNG" height="200"  >
+<img src="https://github.com/REAPXR666/louisgaming/blob/main/2.PNG" height="500"  >
 </div>
 <div align="left">
-<img src="https://github.com/REAPXR666/louisgaming/blob/main/3.PNG" height="200"  >
+<img src="https://github.com/REAPXR666/louisgaming/blob/main/3.PNG" height="500"  >
 </div>
 <div align="left">
-<img src="https://github.com/REAPXR666/louisgaming/blob/main/4.PNG" height="200"  >
+<img src="https://github.com/REAPXR666/louisgaming/blob/main/4.PNG" height="500"  >
 </div>
 <div align="left">
-<img src="https://github.com/REAPXR666/louisgaming/blob/main/5.PNG" height="200"  >
+<img src="https://github.com/REAPXR666/louisgaming/blob/main/5.PNG" height="500"  >
 </div>
 <div align="left">
-<img src="https://github.com/REAPXR666/louisgaming/blob/main/6.PNG" height="200"  >
+<img src="https://github.com/REAPXR666/louisgaming/blob/main/6.PNG" height="500"  >
 </div>
