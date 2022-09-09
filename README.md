@@ -1,3 +1,5 @@
+Voicshifter 4 for EqualizerAPO and VSTPlugin systems
+
 Voiceshifter 4 is a simple yet very effective and transparent brickwall limiter and tone-booster that is suitable for individual tracks as well as mastering work. On top of the peak limiter, a soft-knee peak compressor is included with adjustable ratio, threshold, attack and release times. This compressor uses the same advanced envelope tracking technology as used for the peak limiter, providing accurate and musically-sounding compression.
 
 Features:
